@@ -1,17 +1,22 @@
-<h2 style="color:black"> 👋 Welcome changhyeon's github! </h2>
+<h1 style="color:black"> 👋 Welcome changhyeon's github! </h2>
 
 * 세상을 조금 더 편리하게🦋 바꾸고 싶은 개발자 황창현입니다.
 
+<h2 style="color:black"> 기록 </h2>
 <div style="display:flex; flex-direction:row;">
+    <div>이력서</div>
+    <a href="https://changhyeonh.notion.site/f8fc14d0202e4fbb89683a14e2b83efb">
+        <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
+    </a>
+    <div>TIL(TodayILearned)</div>
+        <a href="https://changhyeonh.notion.site/Study-Record-565bf559bda0470c8a7cac24bb032d0a">
+        <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
+    </a>
+    <div>Blog</div>
     <a href="https://changhyeon-h.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=BLOG&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-    <a href="https://www.notion.so/changhyeonh/Study-Record-565bf559bda0470c8a7cac24bb032d0a?pvs=4">
-        <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=TIL&logoColor=white"> 
-    </a>
-      <a href="https://changhyeonh.notion.site/f8fc14d0202e4fbb89683a14e2b83efb">
-        <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Resume&logoColor=white"> 
-    </a>
+
 </div><br>
 
 
