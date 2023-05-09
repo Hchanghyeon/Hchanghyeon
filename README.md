@@ -3,7 +3,7 @@
 * 세상을 조금 더 편리하게🦋 바꾸고 싶은 개발자 황창현입니다.
 
 ### 기록
-<br>
+<hr>
 <div style="display:flex; flex-direction:row;">
     <div style="margin-bottom:6px;"><b>이력서</b></div>
     <a href="https://changhyeonh.notion.site/f8fc14d0202e4fbb89683a14e2b83efb">
@@ -20,6 +20,7 @@
 </div><br>
 
 ### 현재 공부중인 언어 및 프레임워크
+<hr>
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
@@ -29,7 +30,7 @@
 
 
 ### 주요 언어 및 도구
-<br>
+<hr>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
