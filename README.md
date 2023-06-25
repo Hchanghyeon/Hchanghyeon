@@ -8,10 +8,6 @@
     <a href="https://changhyeonh.notion.site/f8fc14d0202e4fbb89683a14e2b83efb">
         <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black"> 
     </a>
-    <div style="margin-bottom:6px;"><b>TIL(TodayILearned)</b></div>
-        <a href="https://changhyeonh.notion.site/Study-Record-565bf559bda0470c8a7cac24bb032d0a">
-        <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black"> 
-    </a>
     <div style="margin-bottom:6px;"><b>Blog</b></div>
     <a href="https://changhyeon-h.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-FF6633?style=for-the-badge&logo=Tistory&logoColor=white"> 
