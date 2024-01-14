@@ -3,7 +3,7 @@
   # Hwang Changhyeon
     
  <a href="https://changhyeonhw.notion.site/3bf02fb38ead439eb3d2768c118e47a9?pvs=4"><img src="https://img.shields.io/badge/Resume-white?style=flat-square&logo=Notion&logoColor=black"/></a>
- <a href="https://hchanghyeon.github.io/blog"><img src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=Notion&logoColor=white"/></a>
+ <a href="https://hchanghyeon.github.io/dev-blog"><img src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=Blogger&logoColor=white"/></a>
   
   <br/>  
   
