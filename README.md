@@ -22,6 +22,6 @@
 - 개발할 때 고민하는 것을 좋아하고, 그것을 기록하고 공유하는 것을 좋아합니다. <a href="https://github.com/Hchanghyeon/dev-troubleshooting/tree/main">트러블 슈팅 및 고민 기록</a>
 - 직접 만든 것들을 배포하여 남들에게 보여주는 것을 좋아하며, FrontEnd 개발도 즐겨합니다. (개인 NAS 서버를 통해 배포중)
    - https://www.ohmobilegame.com
-   - **현재 아래 2개의 도메인은 한국ISP의 차단으로 버셀로 배포된 사이트가 특정 ISP에서는 접속이 불가할 수 있습니다.** <a href="https://github.com/orgs/vercel/discussions/6807">이슈</a>
-   - https://growing-trip-frontend.vercel.app
+   - https://www.growingtrip.com
+   - **현재 아래의 도메인은 한국ISP의 차단으로 버셀로 배포된 사이트가 특정 ISP에서는 접속이 불가할 수 있습니다.** <a href="https://github.com/orgs/vercel/discussions/6807">이슈</a>
    - https://pickple-deploy.vercel.app (스마트폰 화면 전용)
