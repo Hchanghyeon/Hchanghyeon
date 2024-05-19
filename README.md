@@ -11,7 +11,11 @@
 - <a href="https://hchanghyeon.github.io/dev-blog/5">공연 예매시 발생하는 좌석 동시성 문제 해결하기</a>
 
 ## 스킬
-- Java, SpringBoot, JPA, MySQL, AWS, CI/CD
+**Main**
+- Java, SpringBoot, JPA, MySQL, AWS, Ci/Cd
+
+**Sub**
+- HTML/CSS, React
 
 ## 교육
 - 프로그래머스 백엔드 데브코스 4기 (2023.06 ~ 2023.12) <a href="https://github.com/Hchanghyeon/programmers-backend-devcourse">활동 내역</a> 
