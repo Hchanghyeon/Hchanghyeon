@@ -15,7 +15,7 @@
 - Java, SpringBoot, JPA, MySQL, AWS, Ci/Cd
 
 **Sub**
-- HTML/CSS, React
+- React, JavaScript, HTML/CSS
 
 ## 교육
 - 프로그래머스 백엔드 데브코스 4기 (2023.06 ~ 2023.12) <a href="https://github.com/Hchanghyeon/programmers-backend-devcourse">활동 내역</a> 
