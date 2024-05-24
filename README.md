@@ -1,7 +1,7 @@
     
   # Hwang Changhyeon
 
- <a href="https://docs.google.com/document/d/1DZwqAEXqHqtVyy6PAt5TgamKgIqiRkDCocXBpwJ3lfo/edit?usp=sharing"><img src="https://img.shields.io/badge/Resume-white?style=flat-square&logo=googledocs&logoColor=black"/></a>
+ <a href="https://docs.google.com/document/d/1rujAM8smMXr1kGjzhu4nFqu-Kp7xwO1GSFnssAOe4b4/edit?usp=sharing"><img src="https://img.shields.io/badge/Resume-white?style=flat-square&logo=googledocs&logoColor=black"/></a>
  <a href="https://hchanghyeon.github.io/dev-blog"><img src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
 - <a href="https://hchanghyeon.github.io/dev-blog/20's_review"> 개발자가 되기 전 나의 10년 회고록</a>
