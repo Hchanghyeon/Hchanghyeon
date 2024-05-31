@@ -12,7 +12,7 @@
 
 ## 스킬
 **Main**
-- Java, SpringBoot, JPA, MySQL, AWS, Ci/Cd
+- Java, SpringBoot, JPA, MySQL, AWS
 
 **Sub**
 - React, JavaScript, HTML/CSS
