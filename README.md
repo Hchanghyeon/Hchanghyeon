@@ -23,7 +23,7 @@
 
 ## 교육
 - 프로그래머스 백엔드 데브코스 4기 (2023.06 ~ 2023.12) <a href="https://github.com/Hchanghyeon/programmers-backend-devcourse">활동 내역</a> 
-- 동양미래대학교 컴퓨터소프트웨어공학 (2019.03 ~ 2023.02)
+- 동양미래대학교 컴퓨터소프트웨어공학 학사 (2019.03 ~ 2023.02)
 
 ## 개발 가치관
 - 개인보다는 팀 성장을 중요시여겨 팀에 융화되기 위해 노력합니다. [피어리뷰](https://github.com/Hchanghyeon/programmers-backend-devcourse?tab=readme-ov-file#%ED%94%BC%EC%96%B4%EB%A6%AC%EB%B7%B0)</a>
