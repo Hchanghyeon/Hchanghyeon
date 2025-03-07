@@ -15,13 +15,15 @@
 - Java, SpringBoot, JPA, MySQL, AWS
 
 **Sub**
-- React, JavaScript, HTML/CSS
+- Kotlin, React, JavaScript, HTML/CSS
 
 ## 경력
 - NHN CLOUD (2024.08 ~ 2024.10) 시간제
    - 네트워크 보안 플랫폼 개발(NFW, C2S VPN)
    - NFW 서비스 성능 최적화
 - NHN CLOUD (2024.11 ~ ) 계약직
+   - NHN CLOUD DDoS Guard 서비스 개발
+   - NHN CLOUD Access 서비스 개발
 
 ## 교육
 - 프로그래머스 백엔드 데브코스 4기 (2023.06 ~ 2023.12) <a href="https://github.com/Hchanghyeon/programmers-backend-devcourse">활동 내역</a> 
